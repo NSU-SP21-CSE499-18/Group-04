@@ -12,7 +12,7 @@
 <p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
 <p align="center"><strong>Name</strong><strong>:</strong> Jarin Sayma</p>
-<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>171 1234 042</p>
+<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>171 1234 642</p>
 <p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:jarin.sayma@northsouth.edu">jarin.sayma@northsouth.edu</a></p>
 <p align="center"><strong><u>Member 2</u></strong><strong><u>:</u></strong></p>
 <p align="center"><strong>Name</strong><strong>:</strong> S M NIAZ MAHMUD</p>
