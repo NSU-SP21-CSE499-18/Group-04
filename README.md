@@ -1,8 +1,4 @@
 # Group-04
-Group 04 - Jarin Sayma () 
-S M NIAZ MAHMUD (s.m.mahmud@northsouth.edu)
-
-** Sample repository for managing Senior Design Project **
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
 <p align="center"><strong><img src="https://media.dhakatribune.com/uploads/2016/11/nsulogo.jpg" alt="" width="307" height="172" /></strong></p>
