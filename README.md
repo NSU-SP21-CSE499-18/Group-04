@@ -24,31 +24,20 @@
 <p><strong>&nbsp;</strong></p>
 
 
-<p><strong>INTRODUCTION</strong></p>
-<p>TBD</p>
-
-<br>
-
-<p><strong>MOTIVATION</strong></p>
-<p>TBD</p>
+<p><strong>Abstract</strong></p>
+<p>Autism Spectrum Disorder (ASD) is a group of neurodevelopmental disorders. Children with autism often experience challenges in three important areas: social communication, social interaction, and repetitive behavior. Our aim is to help them hearing and recognizing objects & sounds of their environment via smartphones or tabs.</p>
 
 <br>
 
 <p><strong>PROPOSED FEATURES</strong></p>
 
-<p>TBD</p>
-
 <p>List of features TBD</p>
 
 <ol>
-<li><p>Feature 1</li>
+<li><p> We will use scan furniture and need to set the associated sound of that object.</li>
 
-<li><p>Feature 2
-<ol type="a">
-<li>Sub Feature 2.1</li>
-<li>Sub Feature 2.2</li>
-</ol>
-</p></li>
+<li> Also we will use tools which are used in the therapy.</li>
+<li> The app will also provide options for premade models to pop up and act.</li>
 
 <li><p>And so on...</p></li>
 </ol>
@@ -60,9 +49,12 @@
 <ol>
 
 <li><em>Framework</em> <p>TBD</p></li>
-
+* Android studio
+* Unity
+* ARToolKit.
+* ARCore
 <li><em>Database</em>
-<p>TBD</p>
+<p>Firebase</p>
 </li>
 
 <li><em>Third Party Support</em>
@@ -75,9 +67,22 @@
 <br>
 
 <p><strong>SOCIAL BENEFITS</strong></p>
-<p>TBD</p>
+<p>* Children will be able to recognize their environment
+* Understanding situations 
+* Social interaction skills.
+* Will help them to get stable in situations.
+* Enhance Cognitive Learning
+* Increase physical activity</p>
 
 <br>
 
 <p><strong>PLANS FOR MONETIZATION</strong></p>
-<p>TBD</p>
+<p>Two types of monetization will be available, those are:
+
+ 
+**Free Version:** Here the app will be free to all with the basic features. This way we will be able to gather traffic. However, there might be some ads. Users will be able to buy the premier version anytime.
+
+ 
+**Premier Version:** Some advanced features as well as character will be available to this version. We will also provide tutorials to parents and teachers for having better experience and use of the app. In this version, ads can be blocked by the user.  
+
+</p>
