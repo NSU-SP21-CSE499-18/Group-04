@@ -31,7 +31,7 @@
 
 <p><strong>PROPOSED FEATURES</strong></p>
 
-<p>List of features TBD</p>
+<p>List of features</p>
 
 <ol>
 <li><p> We will use scan furniture and need to set the associated sound of that object.</li>
