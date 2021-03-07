@@ -48,31 +48,27 @@
 
 <ol>
 
-<li><em>Framework</em> <p>TBD</p></li>
-* Android studio
-* Unity
-* ARToolKit.
-* ARCore
+<li><em>Framework</em>
+
+<p>* Android studio</p>
+<p>* Unity</p>
+<p>* ARToolKit.</p>
+<p>* ARCore</p>
+</li>
 <li><em>Database</em>
 <p>Firebase</p>
 </li>
-
-<li><em>Third Party Support</em>
-<p>TBD</p></li>
-
-<li><em>Other components...</em></li>
-
 </ol>
 
 <br>
 
 <p><strong>SOCIAL BENEFITS</strong></p>
-<p>* Children will be able to recognize their environment
-* Understanding situations 
-* Social interaction skills.
-* Will help them to get stable in situations.
-* Enhance Cognitive Learning
-* Increase physical activity</p>
+<p>* Children will be able to recognize their environment</p>
+<p>* Understanding situations </p>
+<p>* Social interaction skills.</p>
+<p>* Will help them to get stable in situations.</p>
+<p>* Enhance Cognitive Learning</p>
+<p>* Increase physical activity</p>
 
 <br>
 
