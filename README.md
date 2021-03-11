@@ -48,15 +48,15 @@
 
 <ol>
 
-<li><em>Framework</em>
+<li><em>Framework:</em>
 
 <p>* Android studio</p>
 <p>* Unity</p>
 <p>* ARToolKit.</p>
 <p>* ARCore</p>
 </li>
-<li><em>Database</em>
-<p>Firebase</p>
+<li><em>Database:</em>
+<p>*Firebase</p>
 </li>
 </ol>
 
