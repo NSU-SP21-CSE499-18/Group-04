@@ -4,3 +4,4 @@ Folder for maintaining all exercises.
 
 # #1  AR Watch Try-On app with Vuforia & Unity
 # #2  AR Sofa
+# #3  ARCore Test #1
