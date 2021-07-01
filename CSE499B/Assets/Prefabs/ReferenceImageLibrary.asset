@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4825195517579283979
+  m_GuidHigh: 456719539780833158
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5395093378044963630
+      m_GuidHigh: 1779432559958646156
+    m_SerializedTextureGuid:
+      m_GuidLow: 17407550558331500926
+      m_GuidHigh: 15541071395756675129
+    m_Size: {x: 8.275862, y: 15}
+    m_SpecifySize: 1
+    m_Name: chair
+    m_Texture: {fileID: 2800000, guid: ef00797e0b00f19439900f2518faacd7, type: 3}
