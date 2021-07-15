@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 
 using UnityEngine;
@@ -68,7 +68,7 @@ public class ImageTracking : MonoBehaviour
         perfab.transform.position = position;
         perfab.SetActive(true);
 
-        foreach(GameObject go in spawnedPrefabs.Values)
+       foreach(GameObject go in spawnedPrefabs.Values)
         {
             if(go.name != name)
             {
