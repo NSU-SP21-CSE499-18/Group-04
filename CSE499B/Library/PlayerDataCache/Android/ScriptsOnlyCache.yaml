@@ -47,6 +47,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 89
       Script: {instanceID: 0}
     - Class: 104
@@ -747,4 +751,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/ImageTracking.unity
-  playerPath: H:/NEW'/Apk/CSE499BV5.apk
+  playerPath: H:/NEW'/Apk/CSE499BV6.apk

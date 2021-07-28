@@ -1,1 +1,3 @@
-c86eab2e38d74adf8c5d19467cd0b118|D:\AR\cse499b\Assets\Texttures\Chair.jpg|0.551724
+94da1e0933244803be206f80e3d1e4d2|D:\AR\cse499b\Assets\Texttures\Tea_plate.jpg|0.1
+095f0bc49b054b14bbee7ae0c395ea5d|D:\AR\cse499b\Assets\Texttures\plate.jpg|0.1
+e27c1bc4f1c54bd1b60bd0526000e799|D:\AR\cse499b\Assets\Texttures\Tea_cup.png|0.1

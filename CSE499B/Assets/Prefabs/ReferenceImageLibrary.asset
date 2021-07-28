@@ -36,12 +36,12 @@ MonoBehaviour:
     m_Name: plate
     m_Texture: {fileID: 2800000, guid: b7c26156e1b049945ac88d3acb2ca9e0, type: 3}
   - m_SerializedGuid:
-      m_GuidLow: 5362515090282011042
-      m_GuidHigh: 17647867106215214253
+      m_GuidLow: 5463413655187758020
+      m_GuidHigh: 11089833021129362358
     m_SerializedTextureGuid:
-      m_GuidLow: 2780018559383780454
-      m_GuidHigh: 5822914654068379033
-    m_Size: {x: 0.1, y: 0.08326996}
+      m_GuidLow: 496733004329822669
+      m_GuidHigh: 16111923173755377691
+    m_Size: {x: 0.1, y: 0.07609108}
     m_SpecifySize: 1
     m_Name: Tea_cup
-    m_Texture: {fileID: 2800000, guid: 8d103c669c262694998d29d90626cf50, type: 3}
+    m_Texture: {fileID: 2800000, guid: 1f4aa9cdc00906e41bd8120cc30c99df, type: 3}
