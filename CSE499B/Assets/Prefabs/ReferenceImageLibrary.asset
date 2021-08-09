@@ -45,3 +45,63 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: Tea_cup
     m_Texture: {fileID: 2800000, guid: 1f4aa9cdc00906e41bd8120cc30c99df, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5244433490212886062
+      m_GuidHigh: 6471922858550272703
+    m_SerializedTextureGuid:
+      m_GuidLow: 13125518663300918029
+      m_GuidHigh: 9198308449103796858
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: plate2
+    m_Texture: {fileID: 2800000, guid: aacfab0d35aeb6277a5a4ebbccf4a67f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5282102746633370776
+      m_GuidHigh: 8530790333911254931
+    m_SerializedTextureGuid:
+      m_GuidLow: 9605581090709320326
+      m_GuidHigh: 4476415064066531531
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: plate3
+    m_Texture: {fileID: 2800000, guid: 04f03286e11c854dcba0e4a0c86b1f3e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5301753303804812002
+      m_GuidHigh: 10110694865299785120
+    m_SerializedTextureGuid:
+      m_GuidLow: 12184663583527767353
+      m_GuidHigh: 6443893051208206024
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: plate4
+    m_Texture: {fileID: 2800000, guid: dbcf8d399ef8a918c886dfbf964e6d59, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5635901187559126028
+      m_GuidHigh: 6532343539613824129
+    m_SerializedTextureGuid:
+      m_GuidLow: 17314430022575848220
+      m_GuidHigh: 7671759366592791658
+    m_Size: {x: 0.1, y: 0.075}
+    m_SpecifySize: 1
+    m_Name: plate5
+    m_Texture: {fileID: 2800000, guid: a7fdfb1c365ef0496a040a487f90776a, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5231807093274768350
+      m_GuidHigh: 7163886170472117905
+    m_SerializedTextureGuid:
+      m_GuidLow: 4525667114117413160
+      m_GuidHigh: 4388370436205706120
+    m_Size: {x: 0.1, y: 0.101360545}
+    m_SpecifySize: 1
+    m_Name: plate6
+    m_Texture: {fileID: 2800000, guid: 24a2b92866433ece88fbdd40a99fe63c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4710647212030657262
+      m_GuidHigh: 8933397986319145646
+    m_SerializedTextureGuid:
+      m_GuidLow: 10724811604616138633
+      m_GuidHigh: 241488987015367114
+    m_Size: {x: 0.1, y: 0.10258503}
+    m_SpecifySize: 1
+    m_Name: plate7
+    m_Texture: {fileID: 2800000, guid: f821cf892f5494d6ca493848f4f05903, type: 3}
