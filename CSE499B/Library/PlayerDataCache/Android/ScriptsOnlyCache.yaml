@@ -19,8 +19,15 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.ARFoundation.ARSession
     - UnityEngine.XR.ARFoundation.ARSessionOrigin
     - UnityEngine.XR.ARFoundation.ARTrackedImageManager
+    Unity.XR.ARSubsystems.Editor.dll:
+    - UnityEditor.XR.ARSubsystems.XRReferenceImageLibraryEditor
     Unity.XR.ARSubsystems.dll:
     - UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+    Unity.XR.Management.Editor.dll:
+    - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
+    Unity.XR.Management.dll:
+    - UnityEngine.XR.Management.XRGeneralSettings
+    - UnityEngine.XR.Management.XRManagerSettings
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -58,23 +65,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 12030}
+      Script: {instanceID: 12040}
     - Class: 114
-      Script: {instanceID: 12398}
+      Script: {instanceID: 12408}
     - Class: 114
-      Script: {instanceID: 12912}
+      Script: {instanceID: 12922}
     - Class: 114
-      Script: {instanceID: 13000}
+      Script: {instanceID: 13010}
     - Class: 114
-      Script: {instanceID: 13224}
+      Script: {instanceID: 13234}
     - Class: 114
-      Script: {instanceID: 13394}
+      Script: {instanceID: 13402}
     - Class: 114
-      Script: {instanceID: 13592}
+      Script: {instanceID: 13600}
     - Class: 114
-      Script: {instanceID: 13742}
+      Script: {instanceID: 13750}
     - Class: 114
-      Script: {instanceID: 13782}
+      Script: {instanceID: 13790}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -751,4 +758,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/ImageTracking.unity
-  playerPath: H:/NEW'/Apk/CSE499BV6.apk
+  playerPath: /home/xerin/Desktop/CSE499B.apk

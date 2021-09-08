@@ -56,7 +56,6 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\ImageTracking.cs" />
-     <None Include="Assets\StreamingAssets\HiddenARCore\1d1ece0b-89c2-42f6-86cf-9d6a00985606.imgdb-imglist.txt" />
  <Reference Include="UnityEngine">
  <HintPath>/home/xerin/Unity/Hub/Editor/2019.4.26f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
